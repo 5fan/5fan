@@ -1,3 +1,3 @@
-该页面停止更新，阁下请移步至
+####该页面停止更新，阁下请移步至
 
-https://github.com/znianw/51/wiki
+https://github.com/znianw/truth/wiki
